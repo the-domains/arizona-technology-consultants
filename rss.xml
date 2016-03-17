@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Arizona Technology Consultants - Call Us @ (623)272-9715]]></title>
+        <description><![CDATA[Arizona Technology Consultants - Call Us @ (623)272-9715]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 17:01:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><p>Arizona Technology Consultants is a local business in Tempe, AZ, but serves clients throughout the Phoenix Metropolitan area. We offer web design, IT consulting, search engine optimization and much more! Founded while studying at their alma mater Arizona State University in 2004 by brothers James and Nick Kallof, are experts in web site design, social media marketing and using technology to build small businesses.</p></article>]]></description>
+            <link>undefinedabout-us/index.html</link>
+            <guid isPermaLink="false">8c2b6f7f-b16d-45fc-a2e8-2d82ceac48ca</guid>
+            <pubDate>Thu, 17 Mar 2016 17:01:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
